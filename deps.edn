@@ -1,4 +1,5 @@
 {:paths ["src"]
+ :version "0.1.0"
  ;; kotoba-lang/wit — Layer 2 (cap/effect) of the kotoba foundational stdlib.
  ;; WIT interface as EDN + capability-token data model. The user-facing face of
  ;; the existing deny-by-default effects.rs/policy.rs boundary — invents no new
