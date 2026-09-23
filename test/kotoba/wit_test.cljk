@@ -1,5 +1,5 @@
 (ns kotoba.wit-test
-  (:require [clojure.test :refer [deftest is testing]]
+  (:require [kotoba.test :refer [deftest is testing]]
             [kotoba.wit :as wit]))
 
 (def kv-iface
